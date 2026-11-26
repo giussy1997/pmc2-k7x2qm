@@ -1,0 +1,80 @@
+EPISODIO GA03-2
+TITOLO Cirrosi epatica (2/2): ipertensione portale, complicanze, stadi, clinica
+MODULO Gastroenterologia
+DOCENTE Prof. Carbone, 10/03/2026
+DURATA_STIMATA 9-10 minuti
+PDF_ORIGINALE GA03-cirrosi-epatica.pdf, pagine 4-9 del file (immagini: HVPG, ascite, ginecomastia, ittero, spider naevi, varici, circoli collaterali)
+VOCI M = Marta (spiega) | L = Luca (domande dello studente)
+
+M: Le malattie epatiche, e quindi la cirrosi, danno complicanze che nascono da due condizioni: insufficienza epatica e ipertensione portale. Un fegato in cirrosi scompensata le ha tutte e due.
+L: Parto dall'ipertensione portale?
+M: Sì, è la più articolata.
+
+M: Per ipertensione portale si intende un aumento della pressione nella vena porta, causato da un aumento delle resistenze epatiche al flusso portale. È una sindrome clinica con un gradiente pressorio tra vena porta e vena cava.
+L: Ricordami cos'è la vena porta.
+M: Origina dalla confluenza della vena splenica e delle mesenteriche superiore e inferiore. Drena tutto il sangue venoso splancnico.
+L: Come si misura?
+M: Con l'HVPG, il gradiente venoso epatico-portale. Si entra dalla giugulare e si va nelle vene sovraepatiche a misurare il gradiente tra le sovraepatiche, indice della pressione cavale, e i capillari, indice della pressione portale. Sopra dieci millimetri di mercurio è patologico. Sopra dodici c'è un elevato rischio di sanguinamento gastrointestinale.
+
+M: Primo meccanismo: aumento delle resistenze vascolari. Man mano che i noduli aumentano e i sinusoidi si capillarizzano, crescono le resistenze epatiche. Per questo la vena porta all'ecografia si dilata e supera il calibro standard di dodici millimetri.
+L: Cos'è il paradosso dell'ossido nitrico?
+M: A livello splancnico l'ossido nitrico è un vasodilatatore e aumenta il flusso portale. A livello epatico, invece, la sua concentrazione si riduce e questo causa vasocostrizione. Il professore, e una nota dalla rete, ricollegano la riduzione alla disfunzione endoteliale dei sinusoidi.
+L: Quindi le resistenze dipendono da cosa?
+M: Da tre fattori: la capillarizzazione dei sinusoidi, la costrizione estrinseca esercitata dai miofibroblasti che si contraggono per la scarsa concentrazione di ossido nitrico, e la deposizione di collagene a livello lobulare.
+
+M: Secondo meccanismo: aumento del flusso splancnico, o sindrome circolatoria iperdinamica. Vasodilatazione splancnica e periferica riducono il volume ematico efficace. L'organismo attiva il sistema simpatico e il sistema renina-angiotensina-aldosterone. Aumentano ritorno venoso, gittata cardiaca e frequenza cardiaca.
+L: E il rene?
+M: Nel cirrotico c'è vasocostrizione glomerulare che porta lentamente a insufficienza renale di natura ischemica, generalmente acuta. La conseguenza è la sindrome epato-renale. In più aumenta la ritenzione di sodio e acqua e si riduce l'escrezione di acqua libera: ne derivano ascite e iponatremia diluizionale.
+L: Cosa significa diluizionale?
+M: Il paziente sembra iponatremico ma ha grandi quantità di sodio diluite in un'ingente quantità d'acqua. Quindi dieta iposodica e restrizione idrica, e non si somministra sodio per compensare. Il riassorbimento dipende dalla riduzione della perfusione glomerulare e dalla minore pressione rilevata dai barocettori periferici: l'organismo lo interpreta come ipovolemia e attiva il sistema renina-angiotensina-aldosterone. Il professore stesso dice che questo meccanismo del sodio è paradossale e difficile da capire.
+L: Terapia della sindrome epato-renale?
+M: Terlipressina, un analogo sintetico della vasopressina, potente vasocostrittore, usato anche per le emorragie da varici esofagee.
+
+M: Dalle slide: tre livelli. Pre-epatica: trombosi della vena porta, trombosi della vena splenica, cavernoma portale. Epatica, a sua volta pre-sinusoidale come la fibrosi epatica congenita, sinusoidale come tutte le cause di cirrosi, post-sinusoidale come la malattia veno-occlusiva. Post-epatica: ostruzione delle vene sovraepatiche, pericardite costrittiva, scompenso cardiaco congestizio.
+L: Quindi non è solo cirrosi.
+M: Esatto. Altre cause: malattie cardiache che aumentano le resistenze, ipertensione portale post-epatica; malattie veno-occlusive microvascolari intraepatiche che ostruiscono i sinusoidi; trombosi portale: il sangue non riesce più a fluire e cerca altre vie, passa dal sistema portale alla vena cava inferiore e torna al cuore destro.
+L: Riassumi le cause nella cirrosi.
+M: Resistenze vascolari per deposizione di collagene, capillarizzazione dei sinusoidi, e la componente dinamica dei miofibroblasti che costringono i sinusoidi in modo continuo.
+
+M: Fermati. Dimmi: valori dell'HVPG e cosa significano, i due meccanismi dell'ipertensione portale, e perché il paziente è iponatremico ma non gli si dà sodio.
+M: Controllo. HVPG sopra dieci è patologico, sopra dodici rischio di sanguinamento. Meccanismi: aumento delle resistenze e aumento del flusso splancnico. Iponatremia diluizionale: sodio totale alto diluito in troppa acqua, quindi iposodica e restrizione idrica.
+
+M: La seconda condizione è l'insufficienza epatica. Può causare encefalopatia porto-sistemica e ittero, perché la bile non viene più drenata nelle vie biliari fisiologiche, distrutte dal processo cirrotico. L'ittero compare quando la bilirubina supera due virgola cinque milligrammi per decilitro.
+L: Altre complicanze?
+M: Malnutrizione, per ipercatabolismo, che porta a sarcopenia: arti gracili con addome globoso. Poi epatocarcinoma, trombosi portale e alterazioni del metabolismo osseo, su cui il professore non si sofferma.
+
+M: Lo scompenso del cirrotico è una delle prime cause di ricovero gastroenterologico, quindi bisogna capire causa e stadio. Stadio zero: cirrosi compensata, senza segni di ipertensione portale né varici. Stadio uno: nessuna varice ma CSPH, ipertensione portale clinicamente significativa, con un fegato più duro. Stadio due: presenza di varici.
+L: E il paziente scompensato?
+M: Stadio tre: sanguinamento gastrointestinale. Stadio quattro: primo scompenso non sanguinante. Stadio cinque: secondo scompenso. Stadio sei: end stage, scompenso avanzato che non si ricompensa più, con ascite refrattaria, edemi declivi, ittero e infezioni.
+L: Il primo scompenso cambia molto?
+M: Drasticamente. Il paziente compensato ha circa dodici anni di aspettativa di vita; dopo il primo scompenso deve già valutare il trapianto.
+L: E l'ACLF?
+M: È l'acute chronic liver failure: un evento acuto, come un'epatite acuta, su un paziente con base cronica cirrotica. È una causa di ricovero frequentissima e, nelle parole del professore, l'anticamera della morte.
+L: Di cosa muore il cirrotico?
+M: Soprattutto di infezioni. Raramente di sanguinamento gastrointestinale; a volte per ab ingestis dopo il sanguinamento.
+
+M: La cirrosi compensata può essere asintomatica. Quella scompensata può dare: encefalopatia, confusione mentale e delirio; asterixis, un tremore grossolano, aritmico e intermittente, a battito di farfalla; anoressia; ematemesi; ittero e prurito; dolore e gonfiore addominale; perdita della libido, per l'alterato metabolismo degli ormoni sessuali nel fegato e conseguente ipogonadismo; gonfiore alle caviglie con edemi declivi, anche con segno della fovea positivo se freschi; anasarca e versamento pleurico.
+L: Cosa è tipico del primo scompenso?
+M: Addome gonfio e gambe gonfie.
+L: Immagini da riconoscere?
+M: Paziente sarcopenico con addome disteso, verosimilmente ascite, e ginecomastia, cioè ingrossamento benigno del tessuto mammario maschile per squilibrio tra estrogeni e androgeni. Poi l'ascite evidente. Poi l'edema agli arti inferiori con la prova della fovea per capire se è fresco. Infine il paziente itterico, con gli esiti dei grattamenti sull'addome per il prurito.
+
+M: Nel cirrotico viene meno la gluconeogenesi. Durante il digiuno l'ATP viene tratto anche dalle proteine: il professore dice che "durante il digiuno il fegato mangia i muscoli". Per questo si raccomandano più pasti, meno digiuno notturno e uno spuntino prima di dormire.
+L: Quindi va in ipoglicemia?
+M: Di solito no. Ha un rischio aumentato di diabete per l'insulino-resistenza. L'ipoglicemia è più facile nell'epatite fulminante da cause acute: epatite A, E, B, malattia autoimmune o farmaci.
+
+M: Spider naevi, angiomi a ragno: piccoli shunt artero-venosi tra un'arteriola e una venula cutanea. Sede: collo e tronco, e nell'etilista anche gli arti. Sono tipici del cirrotico con ipertensione portale ma anche delle donne in gravidanza.
+L: Come si riconoscono?
+M: Se li schiacci diventano bianchi e poi tornano rossi dal centro verso l'esterno. Un angioma normale resta rosso alla digitopressione. Le teleangectasie si distinguono perché hanno forma lineare.
+L: E nell'etilista cronico?
+M: Ingrossamento delle parotidi, per infiammazione, che dà la facies dell'etilista; fetor hepaticus, alito dolciastro causato dal dimetilsolfuro, che presuppone shunt porto-sistemici; e malattia di Dupuytren.
+
+M: Il sangue fatica ad attraversare il fegato e si dirige nei circoli collaterali porto-cavali. In alternativa si riaprono circoli obliterati alla nascita, come quello della vena ombelicale.
+L: La milza?
+M: Si dilata, perché la vena splenica confluisce nella porta. Una milza normale misura dieci-dodici centimetri, quella del cirrotico anche venticinque. L'ipersplenismo aumenta l'emocateresi delle piastrine e causa piastrinopenia, con più rischio di sanguinamento.
+L: Dove sanguinano le varici?
+M: Le gastroesofagee sono le più soggette perché sono superficiali ed esposte alla peristalsi esofagea: si fissurano e, quando il gradiente porto-cavale supera i dodici millimetri di mercurio, si rompono con emorragia interna. Anche le varici emorroidarie sono superficiali e sanguinano. Molti pazienti però sanguinano da varici ectopiche nel tenue o nel colon, o per congestione del flusso.
+L: Altre conseguenze?
+M: Ipertensione polmonare e ascite. L'ascite può portare a peritonite batterica spontanea e a sindrome epato-renale. Per queste il professore rimanda alle slide.
+
+M: Prima: definisci ipertensione portale, come si misura e quali sono i valori soglia. Seconda: spiega i due meccanismi fisiopatologici e il paradosso dell'ossido nitrico. Terza: stadi della cirrosi e cosa cambia con il primo scompenso. Quarta: descrivi i segni clinici e l'unica terapia della cirrosi avanzata.
