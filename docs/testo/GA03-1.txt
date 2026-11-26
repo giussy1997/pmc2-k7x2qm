@@ -1,0 +1,62 @@
+EPISODIO GA03-1
+TITOLO Cirrosi epatica (1/2): definizione, cause, epidemiologia, fisiopatologia
+MODULO Gastroenterologia
+DOCENTE Prof. Carbone, 10/03/2026
+DURATA_STIMATA 8-9 minuti
+PDF_ORIGINALE GA03-cirrosi-epatica.pdf, pagine 1-4 del file (immagini: fegato micro e macronodulare, lobulo, scale Ishak e Metavir)
+VOCI M = Marta (spiega) | L = Luca (domande dello studente)
+
+M: Questa lezione del professor Carbone dà spunti e concetti chiave, e l'approfondimento spetta a te sui libri. Il manuale consigliato è Unigastro, scritto dai docenti italiani di gastroenterologia. L'Harrison è completo ma più complesso.
+L: Quindi per l'orale Unigastro basta?
+M: Per il livello del corso sì, è quello che lui consiglia. In questo primo episodio vediamo definizione, cause, epidemiologia e fisiopatologia. Nel secondo, ipertensione portale, complicanze, stadi e clinica.
+
+M: Il fegato è in ipocondrio destro e fa molte cose, che ti servono per capire cosa va storto nella cirrosi. Prima: smaltimento di tossine e prodotti di scarto, per esempio la coniugazione della bilirubina e la detossificazione di sostanze esogene. Seconda e terza: regolazione del metabolismo glucidico e lipidico.
+L: E quello proteico?
+M: Il fegato sintetizza proteine: fattori della coagulazione, proteine di fase acuta e albumina. Poi ha un'attività esocrina, cioè produce e secerne la bile a scopo digestivo. La bile partecipa alla circolazione enteroepatica: passa dal fegato all'ileo terminale e torna al fegato, e viene riassorbita circa sette o otto volte al giorno. Coinvolge recettori nucleari, tra cui FXR e TGR5.
+L: Altre funzioni?
+M: Un'attività endocrina, perché produce angiotensinogeno e IGF-1. Poi l'emocateresi, cioè la distruzione dei globuli rossi invecchiati, e un ruolo nel sistema immunitario innato.
+
+M: Il professore la chiama la "patologia madre" di tutte le patologie epatiche. Il paziente cirrotico generalmente ha ipertensione portale, ascite, ittero e un fenotipo emorragico, per la mancanza dei fattori della coagulazione che il fegato non produce più.
+L: Cosa si altera, in pratica?
+M: Tre grandi cose. La ritenzione idro-salina. Il metabolismo di varie sostanze, tra cui l'ammoniaca, la cui gestione alterata può portare a encefalopatia. E la coagulazione, con sanguinamenti acuti ed emorragie digestive, favoriti dall'ipertensione portale. In più ci sono problemi cardiologici, cioè la cardiomiopatia del cirrotico e l'ipertensione porto-polmonare, e problemi renali, cioè l'insufficienza renale. Il professore precisa che non tutti questi aspetti sono ancora stati compresi del tutto.
+L: E la terapia?
+M: La cirrosi è una malattia end stage, in fase terminale dell'organo. Nella cirrosi avanzata l'unica terapia è il trapianto di fegato. Non esiste un sistema che vicarii la funzione epatica come la dialisi fa per il rene, perché le funzioni del fegato sono troppe.
+
+M: Per definizione la cirrosi è il processo terminale di tutte le epatopatie croniche. È caratterizzata dal sovvertimento dell'architettura epatica, con noduli di rigenerazione circondati da collagene.
+L: E la fibrosi?
+M: La fibrosi epatica è la sostituzione di tessuto epatico con collagene. La cirrosi è un meccanismo di riparazione esclusivo del fegato: sostituzione con collagene, più sovvertimento della struttura lobulare, più noduli rigenerativi circondati da anelli di fibrosi.
+L: Come appare?
+M: Esistono due tipi, micronodulare e macronodulare. All'autopsia il fegato in cirrosi avanzata è più piccolo del normale, duro al tatto e ricco di noduli.
+
+M: Elenco completo, con le precisazioni del professore. Alcol. Droghe, farmaci e sostanze tossiche: tra i farmaci soprattutto metotrexato e amiodarone. Epatiti virali B, C ed E. Malattie metaboliche da accumulo: emocromatosi, malattia di Wilson, glicogenosi. Malattie autoimmuni. Sindrome metabolica, che dà steatoepatite o cirrosi metabolica.
+L: Ce ne sono altre?
+M: Malattie biliari, per esempio la sindrome di Alagille e l'atresia biliare. Colangite sclerosante secondaria. Deficit di alfa uno antitripsina, che a livello epatico si manifesta come una malattia da accumulo. Patologie cardiovascolari: sindrome di Budd-Chiari, malattia veno-occlusiva, insufficienza cardiaca destra. Poi la GvHD, la malattia del trapianto contro l'ospite, e l'HIV, che però raramente dà cirrosi.
+L: Cos'è la Budd-Chiari?
+M: Un'occlusione trombotica delle vene sovraepatiche. Impedisce il ritorno del sangue verso il cuore e causa una lenta cirrosi da congestione.
+L: E sui virus il professore ha detto qualcosa di preciso?
+M: Sì, tre cose. Epatite C: in Italia è stata quasi eradicata, ma ci sono pazienti con fibrosi e cirrosi anche a trent'anni dall'infezione. Epatite B: il quadro è cambiato dal millenovecentonovantadue, anno in cui è stata introdotta la vaccinazione; oggi i pazienti curati in Italia hanno contratto l'infezione prima del vaccino oppure vengono da Paesi con alta prevalenza e poca vaccinazione. Epatite E: può dare epatite cronica nella donna gravida o negli immunocompromessi, per esempio i trapiantati.
+
+M: È una malattia cronica ad elevato impatto sociale ed è tra le dieci principali cause di morte. In Italia la mortalità è di circa diciannove e mezzo su centomila abitanti. L'incidenza è di trenta-sessanta nuovi casi su centomila, circa ventiseimila nuovi casi all'anno.
+L: Come sta cambiando?
+M: Calano le forme virali, per i vaccini su larga scala contro l'epatite B e per le terapie antivirali efficaci contro la C. Aumentano le forme metaboliche, la MAFLD. E aumentano quelle autoimmuni: secondo la teoria igienica, il miglioramento delle condizioni igienico-sanitarie nel secolo scorso avrebbe indebolito il sistema immunitario, con più malattie autoimmuni.
+
+M: Fermati e rispondi ad alta voce. Uno: differenza tra fibrosi e cirrosi. Due: quattro cause di cirrosi, con una precisazione sui virus. Tre: come cambia l'epidemiologia.
+M: Controllo. Fibrosi è deposito di collagene; cirrosi è collagene più sovvertimento lobulare più noduli. Cause: alcol, virus, metaboliche, autoimmuni e le altre dell'elenco. Epidemiologia: meno virali, più MAFLD e autoimmuni.
+
+M: Tre meccanismi alla base della cirrosi: necrosi epatocitaria, fibrogenesi, alterazioni del microcircolo epatico.
+L: Ricordami come è fatto il lobulo.
+M: Il professore usa il modello di Rappaport: al centro la vena centrolobulare, in periferia le triadi portali, ciascuna con un ramo della vena porta, uno dell'arteria epatica e uno del dotto biliare. Il sangue entra dalla vena porta, attraversa i sinusoidi tra le file di epatociti e arriva alla vena centrolobulare, che confluisce nelle vene sovraepatiche.
+L: E i sinusoidi?
+M: Sono fenestrati: i soluti passano con un semplice gradiente di pressione idrostatica. Nella cirrosi, nello spazio di Disse, tra epatocita e sinusoide, si deposita tessuto fibrotico. I sinusoidi perdono la fenestratura e diventano di fatto capillari: si dice che si "capillarizzano". Questo è alla base dell'ipertensione portale.
+
+M: Lo stato di fibrosi si descrive con due classificazioni istopatologiche, Ishak e Metavir. L'ultimo stadio corrisponde a fibrosi nell'intero lobulo e noduli tipici della cirrosi. Si fanno sulla biopsia epatica.
+L: Una curiosità storica?
+M: Il professore ricorda che la biopsia è stata introdotta circa cinquanta-sessant'anni fa, quando non esisteva nemmeno la figura dell'epatologo: se ne occupava l'internista, concentrandosi su ittero e cirrosi. Nel millenovecentocinquantotto il medico italiano Menghini inventò l'ago per campionare il fegato, e questo rese possibile studiare le tappe verso la cirrosi.
+
+M: A seconda della causa e dell'intensità del fattore eziologico possono passare anche trent'anni prima della cirrosi. Il confronto del professore: una grave epatite autoimmune fulminante è molto diversa da un'infezione da HCV a basso grado di infiammazione. Si passa da fegato sano a epatite cronica di durata variabile, poi a cirrosi, inizialmente compensata.
+L: Cirrosi vuol dire morte vicina?
+M: No: si può vivere a lungo con un fegato cirrotico, dipende dalla causa. Il passaggio cruciale, molto negativo per la prognosi, è da cirrosi compensata a scompensata. Ci sono stadi con o senza ipertensione portale, e li vediamo nel secondo episodio.
+
+M: Il professore fa una digressione sul Fibroscan, un dispositivo che misura la durezza del fegato e della milza. Viene dal campo caseario, dove serviva a controllare la stagionatura dei formaggi.
+
+M: Prima: definisci cirrosi e differenziala dalla fibrosi. Seconda: elenca le cause principali e dì come sono cambiate le epatiti virali in Italia. Terza: spiega cosa succede ai sinusoidi e perché.
